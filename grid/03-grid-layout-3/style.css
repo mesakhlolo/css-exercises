@@ -30,7 +30,7 @@
 }
 
 .menu {
-  align-items: center;
+  align-self: center;
 }
 
 .header .menu ul {
